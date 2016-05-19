@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    Git Bash creates a .git file that contains all the repository and commit
+    information, which will be needed for later git log, git checkout and
+    other git commands.
