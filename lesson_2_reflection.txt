@@ -11,4 +11,4 @@ What value do you think it offers?
     necessary to save, giving the user flexibility in this aspect allows for a
     better overview of the workflow and the commits made during the work
     session. See http://udacity.github.io/git-styleguide/ for commit message
-    guidelines.
+    guidelines. Add a few more lines to test commits.

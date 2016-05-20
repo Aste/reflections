@@ -1,0 +1,70 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    IT narrows down the field of potential bugs to the changes that was made
+    from the old version to the new version, potentially saving the software
+    engineer many hours of work.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It would enable me to go back to previous versions of the code where a
+    certain element worked as intended and use that piece of code as a guideline
+    or perhaps even replacing my current new version with the old code.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The pros is that people working on the code wouldn't be able to correct the
+    same mistake twice or change something that would interfere with something
+    that someone else would be working on. The cons is that the Git approach
+    prevents flexibility in larger teams of coders and downtime for some coders
+    who would want to change things in a document which is being used by someone
+    else at that given moment.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because Git is built for programming where a piece of software often consists
+    of multiple pieces of code, imported into one another, whereas google docs as
+    far as I know is mainly used for write documents that are not depending on
+    changes occurring in other documents.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    You can compare each version of a given file with the version before it,
+    until you get to the very first version of the file, at that point you'll
+    have the entire history of the file.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Knowing that I have a backup of all the previous version of the file that
+    I've tested and verified that it is working would make me less hesitant to
+    change and potentially break things, since I the safety of previous working
+    versions in my backup directory.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Working on larger files and break thing, intentionally and unintentionally,
+    to test the limitations of Git. I'd also like to explore other capabilities
+    of Git
+
+Now that you've learned about some version control systems, and how they can
+help you save the history of a file, go add the following question and your
+thoughts on it to your reflections file:
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    By accessing previous versions of my file without bugs or with certain
+    features that I might need, would drastically speed up my workflow.
+
+    When you've updated your document, click "Next" to learn about some
+    differences between these version control systems.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+    	I want to test out working with a project with several files, to see and
+      test how the commits are effecting the workflow. I’d furthermore like to
+      break programs on pupose and take large risks to, in order to partly or
+      fully restore prior working version of the software.
