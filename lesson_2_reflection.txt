@@ -12,3 +12,40 @@ What value do you think it offers?
     better overview of the workflow and the commits made during the work
     session. See http://udacity.github.io/git-styleguide/ for commit message
     guidelines. Add a few more lines to test commits.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+    By updating the staging area so that there will only be one logical change
+    in each commit.
+
+Reflect : What are some situations when branches would be helpful in keeping
+your history organized? How would branches help?
+
+    When trying out experimental features that might break the program, while
+    you still need to develop the core part of the program. When you are
+    collaborating with other people, who are working on different parts of the
+    software and you need to merge all the features at a later stage. The master
+    branch is the production quality branch, that never breaks always works,
+    then you have to other branches for experimental features or new features
+    in general.
+
+How do the diagrams help you visualize the branch structure?
+
+    They improve my understanding of the parent and commit relationship and the
+    reachability and merging aspects of branching in software development.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+    A new branch tip, with the changes from the different branches merged
+    into one branch. To get a better understanding of how the commits are
+    branching out and merging back together, and to easily get an overview
+    of the reachability of the branch system.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+    The pro is the efficiency and time saving aspects of the merging when the
+    merging process is obvious. The cons is the need for time consuming and
+    manual interference.
