@@ -11,4 +11,16 @@ automatically stay up-to-date with your remote repository?
     Because you want to be sure that you are pulling changes that are aligned
     with the work that you are doing, and not some feature changes or other
     branches that would mess up your source code.
-    
+
+Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+
+    Forks are for collaboration on Github. Users may copy existing code and
+    alter it for their own use, but the original creators of the code get credit
+    for the parts they wrote.
+    Cloning is helpful when you need to copy a repository and to work with it
+    locally, when you clone code the original creators does not get credit for
+    unless you specifically link to them.
+    A branch is often used, to fix bugs or develop features, that are not ready
+    ready for the master branch yet (the production code), branches can be
+    merged when they are ready to be implemented.
