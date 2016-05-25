@@ -24,3 +24,10 @@ use one instead of another?
     A branch is often used, to fix bugs or develop features, that are not ready
     ready for the master branch yet (the production code), branches can be
     merged when they are ready to be implemented.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+    It gives you knowledge of the direction in which the development of the
+    production code is going, and you can choose to implement those changes into
+    your own code, if you want to.
